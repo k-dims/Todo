@@ -66,6 +66,7 @@ python task_manager.py
 2. 작업 목록을 확인합니다.  
 3. 작업을 완료 처리하거나 삭제합니다.  
 4. 프로그램 종료 후에도 작업 데이터는 저장됩니다.  
+![todo](https://github.com/user-attachments/assets/1fa21646-bbd3-47a7-aa8a-42f130d10172)
 
 ---
 
